@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6282192834347']
+global.ownernomer = "6282192834347"
+global.premium = ['6282192834347']
+global.packname = 'Sticker By itznusa'
+global.author = 'itznusa'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -33,7 +33,7 @@ global.sp = ''
 
 // Setting Mess
 global.mess = {
-    success: '✅Done',
+    success: '✅success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
@@ -41,8 +41,8 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    error: 'Error!',
+    wait: 'tunggu...',
+    error: 'maaf terjadi Error!',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
     errmor: 'Error Kesalahan Sistem',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
